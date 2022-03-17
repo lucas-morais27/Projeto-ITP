@@ -1,0 +1,9 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'c:/Users/Lucas/Desktop/Developer Workstation/Introdu��o �s T�cnicas de Programa��o/Projeto final/projeto-final'
+gcc perolaNegra.c -o perolaNegra -g -W -pedantic
+ 
+gcc bot_teste.c -o bot_teste -g -W -pedantic
+ 
+node ocma perolaNegra bot_teste
+make: Leaving directory 'c:/Users/Lucas/Desktop/Developer Workstation/Introdu��o �s T�cnicas de Programa��o/Projeto final/projeto-final'
+ 

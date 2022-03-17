@@ -1,0 +1,344 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+ 
+
+# Make data base, printed on Tue Feb 15 15:22:04 2022
+
+# Variables
+
+# environment
+FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+VBOX_HWVIRTEX_IGNORE_SVM_IN_USE = 1
+# environment
+USERPROFILE = C:\Users\Lucas
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+LOCALAPPDATA = C:\Users\Lucas\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-e5b049ed-a8fb-47d4-bbe3-3da8e1b0f2b1-sock
+# environment
+VSCODE_CWD = C:\Users\Lucas\Desktop\Developer Workstation\Introdu��o �s T�cnicas de Programa��o\Projeto final
+# environment
+CHOCOLATEYINSTALL = C:\ProgramData\chocolatey
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 23
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# environment
+GOOGLE_API_KEY = no
+# default
+MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_13824_ZVJSNLXURJFJIAGK
+# environment
+FPS_BROWSER_USER_PROFILE_STRING = Default
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\Lucas\AppData\Roaming\Code\CachedData\f80445acd5a3dadef24aa209168452a3d97cc326
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\Lucas\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# environment
+PROCESSOR_ARCHITEW6432 = AMD64
+# makefile
+MAKEFLAGS = pqrR
+# environment
+ONEDRIVE = C:\Users\Lucas\OneDrive
+# makefile
+CURDIR := c:/Users/Lucas/Desktop/Developer Workstation/Introdu��o �s T�cnicas de Programa��o/Projeto final/projeto-final
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files (x86)
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'makefile', line 1)
+MAKEFILE_LIST := makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 13824
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# environment
+GOOGLE_DEFAULT_CLIENT_ID = no
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"pt-br","availableLanguages":{"*":"pt-br"},"_languagePackId":"52b995fe595539ab0f09b3bcdeeb4746.pt-br","_translationsConfigFile":"C:\\Users\\Lucas\\AppData\\Roaming\\Code\\clp\\52b995fe595539ab0f09b3bcdeeb4746.pt-br\\tcf.json","_cacheRoot":"C:\\Users\\Lucas\\AppData\\Roaming\\Code\\clp\\52b995fe595539ab0f09b3bcdeeb4746.pt-br","_resolvedLanguagePackCoreLocation":"C:\\Users\\Lucas\\AppData\\Roaming\\Code\\clp\\52b995fe595539ab0f09b3bcdeeb4746.pt-br\\f80445acd5a3dadef24aa209168452a3d97cc326","_corruptedFile":"C:\\Users\\Lucas\\AppData\\Roaming\\Code\\clp\\52b995fe595539ab0f09b3bcdeeb4746.pt-br\\corrupted.info","_languagePackSupport":true}
+# environment
+AMDRMPATH = C:\Program Files\AMD\RyzenMaster\
+# environment
+ONEDRIVECONSUMER = C:\Users\Lucas\OneDrive
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := C:/tools/cygwin/bin/sh.exe
+# environment
+HOMEPATH = \Users\Lucas
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Lucas\AppData\Local\Microsoft\WindowsApps;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\dotnet\;C:\MinGW\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C: \tools\cygwin\bin;C:\Users\Lucas\AppData\Local\Microsoft\WindowsApps;C:\Users\Lucas\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\Lucas\Desktop\Developer Workstation\Documentos\flutter\bin;C:\Users\Lucas\AppData\Local\Android\Sdk\tools\bin;C:\Users\Lucas\AppData\Roaming\npm;C:\tools\cygwin\bin;
+# environment
+COMPUTERNAME = DESKTOP-N4LBT66
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+CHOCOLATEYLASTPATHUPDATE = 132891713407037436
+# environment
+LOGONSERVER = \\DESKTOP-N4LBT66
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = Lucas
+# environment
+COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = DESKTOP-N4LBT66
+# 'override' directive
+GNUMAKEFL 
+AGS := 
+# environment
+OS = Windows_NT
+# makefile
+.DEFAULT_GOAL := all
+# default
+MAKE_VERSION := 4.3
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = DESKTOP-N4LBT66
+# environment
+NUMBER_OF_PROCESSORS = 4
+# environment
+PUBLIC = C:\Users\Public
+# makefile (from 'makefile', line 1)
+PARAMS = -g -W -pedantic
+# environment
+APPDATA = C:\Users\Lucas\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = x86
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/services/extensions/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\Lucas\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\ab4100835f1bab74b64910f691b8723c-1.64.2-main-sock
+# environment
+GOOGLE_DEFAULT_CLIENT_SECRET = no
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+PROCESSOR_REVISION = 1100
+# environment
+CHOCOLATEYTOOLSLOCATION = C:\tools
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 17 Stepping 0, AuthenticAMD
+# variable set hash-table stats:
+# Load=105/1024=10%, Rehash=0, Collisions=13/135=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# . (key c:/Users/Lucas/Desktop/Developer Workstation/Introdu��o �s T�cnicas de Programa��o/Projeto final/projeto-final, mtime 1644949307): 17 files, no impossibilities.
+
+# 17 files, no impossibilities in 1 directories.
+
+# Implicit Rules
+
+# No implicit rules.
+
+# Files
+
+bot_teste: bot_teste.c
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'makefile', line 7):
+	gcc bot_teste.c -o bot_teste $(PARAMS)
+
+# Not a target:
+ocma.js:
+#  Implicit rule search has been done.
+#  Last modified 2022-02-14 17:21:20
+#  File has been updated.
+#  Successfully updated.
+
+perolaNegra: perolaNegra.c
+#  Implicit rule search has not been done.
+#  Implicit/static pattern stem: ''
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# automatic
+# @ := perolaNegra
+# automatic
+# * := 
+# automatic
+# < := perolaNegra.c
+# automatic
+# + := perolaNegra.c
+# automatic
+# % := 
+# automatic
+# ^ := perolaNegra.c
+# automatic
+# ? := perolaNegra.c
+# automatic
+# | := 
+# variable set hash-table stats:
+# Load=8/32=25%, Rehash=0, Collisions=1/12=8%
+#  recipe to execute (from 'makefile', line 5):
+	gcc perolaNegra.c -o perolaNegra $(PARAMS)
+
+# Not a target:
+perolaNegra.c:
+#  Implicit rule search has been done.
+#  Last modified 2022-02-15 13:45:29
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+bot_teste.c:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+all: ocma.js perolaNegra bot_teste
+#  Command line target.
+#  Implicit rule search has not been done.
+#  File does not exist.
+#  File has been updated.
+#  Needs to be updated (-q is set).
+# variable set hash-table stats:
+# Load=0/32=0%, Rehash=0, Collisions=0/4=0%
+#  recipe to execute (from 'makefile', line 3):
+	node ocma perolaNegra bot_teste
+
+# Not a target:
+makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-02-15 15:21:36
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+.SUFFIXES:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=9/1024=1%, Rehash=0, Collisions=0/28=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 22 / storage = 227 B / avg = 10 B
+# current buf: size = 8174 B / used = 227 B / count = 22 / avg = 10 B
+
+# strcache performance: lookups = 36 / hit rate = 38%
+# hash-table stats:
+# Load=22/8192=0%, Rehash=0, Collisions=0/36=0%
+# Finished Make data base on Tue Feb 15 15:22:04 2022
+
+ 
