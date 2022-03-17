@@ -1,4 +1,5 @@
 PARAMS = -g -W -pedantic
+
 all: ocma.js perolaNegra bot_A bot_B
 	node ocma perolaNegra bot_A bot_B
 perolaNegra: perolaNegra.c
