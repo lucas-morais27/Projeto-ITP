@@ -1,7 +1,9 @@
 PARAMS = -g -W -pedantic
-all: ocma.js perolaNegra bot_teste
-	node ocma perolaNegra bot_teste
+all: ocma.js perolaNegra bot_A bot_B
+	node ocma perolaNegra bot_A bot_B
 perolaNegra: perolaNegra.c
 	gcc perolaNegra.c -o perolaNegra $(PARAMS)
-bot_teste: bot_teste.c
-	gcc bot_teste.c -o bot_teste $(PARAMS)
+bot_A: bot_A.c
+	gcc bot_A.c -o bot_A $(PARAMS)
+bot_B: bot_B.c
+	gcc bot_B.c -o bot_B $(PARAMS)
